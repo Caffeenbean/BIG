@@ -1,5 +1,5 @@
 #### Weeks One and Two Review ####
-
+##Lecturer: Henry Miller ###
 ### Introductory concepts ###
 
 ## Simple data structures
